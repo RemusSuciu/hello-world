@@ -1,3 +1,3 @@
 # hello-world
 My first ever repository on GitHub.
-I like: pizza, whenever I'm able to be useful and movies.
+I like: movies, pizza, the times when I'm able to chat with my friends.
